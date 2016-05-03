@@ -1,0 +1,13 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/hashicorp/terraform",
+			"repository": "https://github.com/hashicorp/terraform",
+			"vcs": "git",
+			"revision": "cf0b2644a3b2083da33c2792684081ee27f200f9",
+			"branch": "master",
+			"notests": true
+		}
+	]
+}
